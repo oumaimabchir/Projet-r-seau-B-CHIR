@@ -1,0 +1,2 @@
+gcc file_c/py_net.c header_c/py_net.h file_c/network_con.c header_c/network_con.h file_c/packet_handler.c header_c/packet_handler.h file_c/cl_manager.c header_c/cl_manager.h  header_c/extract_ip.h file_c/extract_ip.c -o runner
+
