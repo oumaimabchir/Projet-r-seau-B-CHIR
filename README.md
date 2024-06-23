@@ -8,3 +8,6 @@ Aymen,Youssef,Oumaima,Rana ,Dorra et Mohamed.
 ## Installation
 sudo apt install python3-pygame
 sudo apt install python3-matplotlib
+
+## lancement 
+python3 ./main.py
